@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Aventure en montagne",
+    "description": "Partez à la découverte des sommets majestueux lors de cette aventure en montagne. Profitez de paysages à couper le souffle, de randonnées stimulantes et de moments inoubliables au cœur de la nature.",
+    "price": "499€",
+    "duration": "7 jours",
+    "destination": "Alpes françaises",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Safari en Afrique",
+    "description": "Plongez au cœur de la savane africaine lors de ce safari inoubliable. Observez de près les majestueux animaux sauvages dans leur habitat naturel, vivez des aventures palpitantes et créez des souvenirs mémorables.",
+    "price": "1499€",
+    "duration": "10 jours",
+    "destination": "Tanzanie",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Croisière en Méditerranée",
+    "description": "Explorez les joyaux de la Méditerranée lors de cette croisière de luxe. Détendez-vous sur les plages de sable fin, découvrez des villes historiques fascinantes et savourez une cuisine délicieuse tout en naviguant sur des eaux cristallines.",
+    "price": "999€",
+    "duration": "8 jours",
+    "destination": "Méditerranée",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Escapade urbaine à New York",
+    "description": "Découvrez l'effervescence de la ville qui ne dort jamais lors de cette escapade urbaine à New York. Explorez des quartiers emblématiques, assistez à des spectacles de Broadway et découvrez les attractions légendaires de la ville.",
+    "price": "799€",
+    "duration": "5 jours",
+    "destination": "New York, États-Unis",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Voyage culturel au Japon",
+    "description": "Immergez-vous dans la riche culture et la tradition du Japon lors de ce voyage culturel fascinant. Explorez des temples anciens, dégustez une cuisine exquise, assistez à des cérémonies traditionnelles et découvrez la modernité de Tokyo.",
+    "price": "1599€",
+    "duration": "12 jours",
+    "destination": "Japon",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Croisière sur le Nil",
+    "description": "Découvrez les merveilles de l'Égypte ancienne lors de cette croisière inoubliable sur le Nil. Explorez les temples historiques, les pyramides majestueuses et les trésors cachés des pharaons tout en naviguant sur le légendaire fleuve.",
+    "price": "1299€",
+    "duration": "9 jours",
+    "destination": "Égypte",
+    "imageUrl": "https://via.placeholder.com/300"
+  }
+]
